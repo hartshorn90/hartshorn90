@@ -22,6 +22,6 @@ Feel free to explore my repositories and projects. If you have any questions, id
 
 📫 Contact Me:
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) https://www.linkedin.com/in/anthony-hartshorn-bb540b127/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnthonyHartshorn-blue)]( https://www.linkedin.com/in/anthony-hartshorn-bb540b127/)
 
 Thanks for stopping by, and let's dive into the world of data together!
