@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Anthony
 - 👀 I’m interested in ... SQL, Data Science, Python, R
-- 🌱 I’m currently learning ... SQL & R
-- 💞️ I’m looking to collaborate on ... SQL & R
-- 📫 How to reach me ... 
-- Twitter - https://twitter.com/Hartshorn90
+- 🌱 I’m currently learning ... Python & Machine Learning
+- 📫 How to reach me ...
 - Linkin - https://www.linkedin.com/in/anthony-hartshorn-bb540b127/
                          
 
